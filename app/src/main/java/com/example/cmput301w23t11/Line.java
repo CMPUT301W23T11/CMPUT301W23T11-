@@ -1,4 +1,4 @@
-package com.example.group11participation;
+package com.example.cmput301w23t11;
 
 public class Line extends Shape {
     private Integer x;
