@@ -11,5 +11,6 @@ public class Line extends Shape {
         this.y = y;
         this.x2 = x2;
         this.y2 = y2;
+        //difference
     }
 }
